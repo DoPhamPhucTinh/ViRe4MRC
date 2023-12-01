@@ -8,5 +8,5 @@ Link drive: https://drive.google.com/file/d/1klRi2yuJri2sJHx3k1LxlBMlsZaCVnz0/vi
 ## Citation
 Please cite the following paper if you found it useful in your work.
 ## Data Example
-![examle]([https://github.com/kimkim00/UIT-ViSD4SA/blob/main/example.png](https://github.com/DoPhamPhucTinh/ViRe4MRC/assets/108585613/96f123ae-2dbe-4f82-adec-18a23fbc17b2.png))
+![examle]([https://github.com/DoPhamPhucTinh/ViRe4MRC/assets/108585613/96f123ae-2dbe-4f82-adec-18a23fbc17b2.png](https://github.com/DoPhamPhucTinh/ViRe4MRC/assets/108585613/96f123ae-2dbe-4f82-adec-18a23fbc17b2.png))
 

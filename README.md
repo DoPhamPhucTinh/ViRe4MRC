@@ -5,3 +5,6 @@ This repository contains the data of the paper [MACHINE READING COMPREHENSION FO
 Link drive: https://drive.google.com/file/d/1klRi2yuJri2sJHx3k1LxlBMlsZaCVnz0/view
 ## Citation
 Please cite the following paper if you found it useful in your work.
+
+!image
+https://github.com/DoPhamPhucTinh/ViRe4MRC/assets/108585613/96f123ae-2dbe-4f82-adec-18a23fbc17b2

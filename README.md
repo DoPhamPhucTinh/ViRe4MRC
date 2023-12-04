@@ -1,4 +1,4 @@
-# ViRe4MRC in PACLIC 37
+# ViRe4MRC at PACLIC 37
 ## Introduction
 This repository contains the data of the paper [MACHINE READING COMPREHENSION FOR VIETNAMESE CUSTOMER REVIEWS: TASK, CORPUS AND BASELINE MODELS]. 
 

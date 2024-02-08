@@ -6,10 +6,35 @@ ViRe4MRC is the first benchmark for review-based machine reading comprehension i
 
 ## Data Example
 ![example](https://github.com/DoPhamPhucTinh/ViRe4MRC/assets/108585613/96f123ae-2dbe-4f82-adec-18a23fbc17b2.png)
-## Citation
-Tinh Pham Phuc Do, Ngoc Dinh Duy Cao, Nhan Thanh Nguyen, Tin Van Huynh, Kiet Van Nguyen. Machine Reading Comprehension for Vietnamese Customer
-Reviews: Task, Corpus and Baseline Models. The 37th Pacific Asia Conference on Language, Information and Computation.2023
-
+## Citation 
+```bash
+@inproceedings{do-etal-2023-machine,
+    title = "Machine Reading Comprehension for {V}ietnamese Customer Reviews: Task, Corpus and Baseline Models",
+    author = "Do, Tinh Pham Phuc  and
+      Cao, Ngoc Dinh Duy  and
+      Nguyen, Nhan Thanh  and
+      Huynh, Tin Van  and
+      Nguyen, Kiet Van",
+    editor = "Huang, Chu-Ren  and
+      Harada, Yasunari  and
+      Kim, Jong-Bok  and
+      Chen, Si  and
+      Hsu, Yu-Yin  and
+      Chersoni, Emmanuele  and
+      A, Pranav  and
+      Zeng, Winnie Huiheng  and
+      Peng, Bo  and
+      Li, Yuxi  and
+      Li, Junlin",
+    booktitle = "Proceedings of the 37th Pacific Asia Conference on Language, Information and Computation",
+    month = dec,
+    year = "2023",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.paclic-1.3",
+    pages = "24--35",
+}
+```
 ## Contact
 ### Authors:
 Tinh Pham Phuc Do, Ngoc Dinh Duy Cao, Nhan Thanh Nguyen, Tin Van Huynh, Kiet Van Nguyen

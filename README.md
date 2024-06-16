@@ -3,7 +3,7 @@
 This repository contains the data of the paper [MACHINE READING COMPREHENSION FOR VIETNAMESE CUSTOMER REVIEWS: TASK, CORPUS AND BASELINE MODELS](https://aclanthology.org/2023.paclic-1.3.pdf). 
 
 ViRe4MRC is the first benchmark for review-based machine reading comprehension in Vietnamese. ViRe4MRC contains 6,603 data points, human-generated from 2,174 reviews on two domains: restaurant and smartphone. 
-*Note*: This dataset is published for research purposes only. The dataset is not intended for commercial use.
+**Notice**: This dataset is published for research purposes only. The dataset is not intended for commercial use.
 ## Data Example
 ![example](https://github.com/DoPhamPhucTinh/ViRe4MRC/assets/108585613/96f123ae-2dbe-4f82-adec-18a23fbc17b2.png)
 ## Citation 
